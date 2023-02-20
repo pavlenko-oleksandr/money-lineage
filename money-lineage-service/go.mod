@@ -1,4 +1,4 @@
-module github.com/pavlenko-oleksandr/money-lineage
+module github.com/pavlenko-oleksandr/money-lineage/money-lineage-service
 
 go 1.19
 
